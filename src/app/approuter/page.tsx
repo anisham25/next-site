@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function () {
+export default function AppRouter () {
     return (
             <main className="flex-grow pl-24 pt-24 pr-24">
                 <h1 className="text-violet-500 text-5xl font-semibold block pb-5">App Router</h1>
